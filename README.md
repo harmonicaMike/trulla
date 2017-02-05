@@ -1,3 +1,4 @@
-# trulla - repository name
+# trulla
+- repository
 this is for learning purposes
 obviously
